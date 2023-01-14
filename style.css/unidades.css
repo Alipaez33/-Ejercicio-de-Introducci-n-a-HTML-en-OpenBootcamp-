@@ -1,0 +1,41 @@
+*/{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.escenario{
+margin: 10px 0px;
+border: 1px solid #ccc;
+padding: 10px;
+}
+.escenario1{
+    width: 100%;
+}
+.escenario2{
+    width: 50%;
+}
+.px{
+    background-color: green;
+    width: 200px;
+}
+.porcentaje{
+    background-color: red;
+    width: 50%;
+}
+.view{
+    background-color: yellow;
+    width: 50vw;
+}
+.escenario3{
+    font-size: 32px;
+}
+.escenario4{
+    font-size: 16px;
+}
+.em{
+    font-size: 2em;
+}
+.rem{
+    font-size: 2rem;
+}
